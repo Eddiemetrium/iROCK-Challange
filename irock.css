@@ -1,0 +1,19 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
+.irock-img {
+ cursor: pointer;
+}
+.img {
+  width: 300px;
+  cursor: pointer;
+}
