@@ -1,4 +1,8 @@
 body {
+  background-image: url(./backdrop.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
   padding: 0px;
   margin: 0px;
   box-sizing: border-box;
@@ -13,8 +17,10 @@ body {
 }
 .irock-img {
  cursor: pointer;
+ text-align: center;
 }
 .img {
   width: 300px;
   cursor: pointer;
 }
+
